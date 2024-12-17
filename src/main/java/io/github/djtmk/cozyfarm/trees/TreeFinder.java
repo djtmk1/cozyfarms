@@ -1,6 +1,6 @@
-package io.github.dazzdev.cozyfarm.trees;
+package io.github.djtmk.cozyfarm.trees;
 
-import io.github.dazzdev.cozyfarm.ReplantHandler;
+import io.github.djtmk.cozyfarm.ReplantHandler;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
 import org.bukkit.block.data.type.Leaves;

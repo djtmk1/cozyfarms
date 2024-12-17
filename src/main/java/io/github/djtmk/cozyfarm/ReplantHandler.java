@@ -1,4 +1,4 @@
-package io.github.dazzdev.cozyfarm;
+package io.github.djtmk.cozyfarm;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;

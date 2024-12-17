@@ -1,14 +1,13 @@
-package io.github.dazzdev.cozyfarm.events;
+package io.github.djtmk.cozyfarm.events;
 
-import io.github.dazzdev.cozyfarm.GriefPreventionSupport;
-import io.github.dazzdev.cozyfarm.ReplantHandler;
-import io.github.dazzdev.cozyfarm.StemFinder;
-import io.github.dazzdev.cozyfarm.trees.TreeChopper;
-import io.github.dazzdev.cozyfarm.trees.TreeFinder;
+import io.github.djtmk.cozyfarm.GriefPreventionSupport;
+import io.github.djtmk.cozyfarm.ReplantHandler;
+import io.github.djtmk.cozyfarm.StemFinder;
+import io.github.djtmk.cozyfarm.trees.TreeChopper;
+import io.github.djtmk.cozyfarm.trees.TreeFinder;
 import me.ryanhamshire.GriefPrevention.Claim;
 import me.ryanhamshire.GriefPrevention.ClaimPermission;
 import me.ryanhamshire.GriefPrevention.GriefPrevention;
-import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;

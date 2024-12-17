@@ -1,4 +1,4 @@
-package io.github.dazzdev.cozyfarm;
+package io.github.djtmk.cozyfarm;
 
 import me.ryanhamshire.GriefPrevention.Claim;
 import me.ryanhamshire.GriefPrevention.ClaimPermission;

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CozyFarm:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ee88c87-2b96-45fa-be69-0dc0dd43f0ff" name="Changes" comment="initial" />
+    <list default="true" id="8ee88c87-2b96-45fa-be69-0dc0dd43f0ff" name="Changes" comment="initial">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CozyFarm_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dazzdev/cozyfarm/CozyFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/djtmk/cozyfarm/CozyFarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dazzdev/cozyfarm/GriefPreventionSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/djtmk/cozyfarm/GriefPreventionSupport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dazzdev/cozyfarm/ReplantHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/djtmk/cozyfarm/ReplantHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dazzdev/cozyfarm/StemFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/djtmk/cozyfarm/StemFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dazzdev/cozyfarm/events/BlockBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/djtmk/cozyfarm/events/BlockBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dazzdev/cozyfarm/trees/JobsSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/djtmk/cozyfarm/trees/JobsSupport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dazzdev/cozyfarm/trees/TreeChopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/djtmk/cozyfarm/trees/TreeChopper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dazzdev/cozyfarm/trees/TreeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/djtmk/cozyfarm/trees/TreeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "djtmk1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/djtmk1/cozyfarms.git",
+    "accountId": "ddbfefdc-90d4-4b63-9dc0-cba1e9ba44b2"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -24,21 +54,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,7 +94,8 @@
       <workItem from="1734037561633" duration="1546000" />
       <workItem from="1734140025511" duration="1000" />
       <workItem from="1734446521554" duration="241000" />
-      <workItem from="1734446780852" duration="36000" />
+      <workItem from="1734446780852" duration="510000" />
+      <workItem from="1734447301179" duration="2081000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1659923541701</created>

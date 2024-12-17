@@ -1,5 +1,5 @@
 name: CozyFarm
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: io.github.djtmk.cozyfarm.CozyFarm
 api-version: 1.21.3
 softdepend: [ Jobs, CMILib, GriefPrevention ]

@@ -1,11 +1,11 @@
-package io.github.dazzdev.cozyfarm.trees;
+package io.github.djtmk.cozyfarm.trees;
 
 import com.gamingmesh.jobs.Jobs;
 import com.gamingmesh.jobs.container.CurrencyType;
 import com.gamingmesh.jobs.container.JobProgression;
 import com.gamingmesh.jobs.container.JobsPlayer;
 import com.gamingmesh.jobs.economy.BufferedEconomy;
-import io.github.dazzdev.cozyfarm.CozyFarm;
+import io.github.djtmk.cozyfarm.CozyFarm;
 import net.Zrips.CMILib.Equations.Parser;
 import org.bukkit.entity.Player;
 

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CozyFarm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CozyFarm_jar</output-path>
+    <root id="archive" name="CozyFarm.jar">
+      <element id="module-output" name="CozyFarm" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/CMILib1.2.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/Jobs5.1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

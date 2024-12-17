@@ -1,8 +1,8 @@
-package io.github.dazzdev.cozyfarm;
+package io.github.djtmk.cozyfarm;
 
-import io.github.dazzdev.cozyfarm.events.BlockBreak;
-import io.github.dazzdev.cozyfarm.trees.JobsSupport;
-import io.github.dazzdev.cozyfarm.trees.TreeChopper;
+import io.github.djtmk.cozyfarm.events.BlockBreak;
+import io.github.djtmk.cozyfarm.trees.JobsSupport;
+import io.github.djtmk.cozyfarm.trees.TreeChopper;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
