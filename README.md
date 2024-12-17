@@ -1,0 +1,2 @@
+# CozyFarm
+CozyMC Farming plugin

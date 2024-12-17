@@ -1,0 +1,5 @@
+name: CozyFarm
+version: '${project.version}'
+main: io.github.dazzdev.cozyfarm.CozyFarm
+api-version: 1.21.3
+softdepend: [ Jobs, CMILib, GriefPrevention ]
